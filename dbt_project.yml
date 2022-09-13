@@ -11,5 +11,5 @@ vars:
 
 models:
   facebook_pages:
-    +schema: facebook_pages
+    +schema: public
     +materialized: table
